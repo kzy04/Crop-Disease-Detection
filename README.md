@@ -16,3 +16,8 @@ A machine learning project for detecting crop diseases using image data and Jupy
    ```bash
    git clone https://github.com/kzy04/Crop-Disease-Detection.git
    cd Crop-Disease-Detection
+2. (Optional) Create and activate a virtual environment.
+
+3. Install dependencies:
+   '''bash
+   pip install -r requirements.txt
