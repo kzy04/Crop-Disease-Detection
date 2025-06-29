@@ -1,10 +1,10 @@
-# 🌿 Crop Disease Detection using CNN and Transfer Learning
+# Crop Disease Detection using CNN and Transfer Learning
 
 This repository contains a machine learning project for detecting crop diseases from leaf images using the **PlantVillage dataset**. Three models were developed and evaluated: a custom-built CNN, and two pretrained models—**ResNet50** and **Xception**. The models classify plant leaves as **healthy** or **diseased**, supporting early and accurate diagnosis in agriculture.
 
 ---
 
-## 📂 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Tech Stack](#tech-stack)
@@ -20,13 +20,13 @@ This repository contains a machine learning project for detecting crop diseases 
 
 ---
 
-## 📜 Overview
+## Overview
 
 The project explores different deep learning approaches to classify plant leaf images. A baseline CNN model was trained from scratch, and two advanced architectures (ResNet50 and Xception) were fine-tuned using transfer learning to compare performance.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python
 - TensorFlow / Keras
@@ -37,7 +37,7 @@ The project explores different deep learning approaches to classify plant leaf i
 
 ---
 
-## 🌱 Dataset
+## Dataset
 
 - **Name**: [PlantVillage Dataset](https://www.kaggle.com/datasets/emmarex/plantdisease)
 - **Type**: Image dataset of healthy and diseased plant leaves
@@ -60,7 +60,7 @@ The project explores different deep learning approaches to classify plant leaf i
 
 ---
 
-## 💾 Installation
+## Installation
 
 1. Clone the repository:
    ```bash
@@ -72,7 +72,7 @@ The project explores different deep learning approaches to classify plant leaf i
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 Open and run any of the following Jupyter Notebooks:
 
@@ -93,7 +93,7 @@ Each notebook includes:
 
 ---
 
-## 📈 Results
+## Results
 
 The best-performing model was **ResNet50**, achieving a validation accuracy of **96.58%**.
 
@@ -107,7 +107,7 @@ Training and validation curves are visualized within each notebook.
 
 ---
 
-## ⚠️ Limitations & Future Work
+## Limitations & Future Work
 
 - Performance may vary on real-world, noisy, or unseen crop images.
 - Current models trained on clean, labeled dataset images.
@@ -119,20 +119,20 @@ Training and validation curves are visualized within each notebook.
 
 ---
 
-## 🔗 References
+## References
 
 - [PlantVillage Dataset](https://www.kaggle.com/datasets/emmarex/plantdisease)
 - [Keras Applications Models](https://keras.io/api/applications/)
 
 ---
 
-## 📄 License
+## License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## 🙋‍♂️ Author
+## Author
 
 **Junaid Hossain**  
 GitHub: [@kzy04](https://github.com/kzy04)
