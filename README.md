@@ -66,7 +66,11 @@ The project explores different deep learning approaches to classify plant leaf i
    ```bash
    git clone https://github.com/yourusername/crop-disease-detection.git
    cd crop-disease-detection
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
 
+---
 
 ## ▶️ How to Run
 
