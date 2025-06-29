@@ -119,7 +119,6 @@ Training and validation curves are visualized within each notebook.
 
 - [PlantVillage Dataset](https://www.kaggle.com/datasets/emmarex/plantdisease)
 - [Keras Applications Models](https://keras.io/api/applications/)
-- [Deep Learning with Python – François Chollet](https://www.manning.com/books/deep-learning-with-python)
 
 ---
 
@@ -131,7 +130,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Author
 
-**Kazi Junaid**  
-GitHub: [@yourusername](https://github.com/yourusername)
+**Junaid Hossain**  
+GitHub: [@kzy04](https://github.com/kzy04)
 
 Feel free to open issues or contribute to this project!
