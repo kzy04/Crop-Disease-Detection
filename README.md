@@ -6,10 +6,10 @@ This repository contains a machine learning project for detecting crop diseases 
 
 ## 📂 Table of Contents
 
-- [Overview](#📜overview)
+- [Overview](#overview)
 - [Tech Stack](#tech-stack)
 - [Dataset](#dataset)
-- [Model Summaries](#🧠model-summaries)
+- [Model Summaries](#model-summaries)
 - [Installation](#installation)
 - [How to Run](#how-to-run)
 - [Results](#results)
@@ -46,7 +46,7 @@ The project explores different deep learning approaches to classify plant leaf i
 
 ---
 
-## 🧠 Model Summaries
+## Model Summaries
 
 | Model               | Training Accuracy | Validation Accuracy |
 |---------------------|-------------------|----------------------|
